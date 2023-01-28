@@ -1,0 +1,14 @@
+La partie front-end comporte deux sous-partie : 
+
+    - La Premiere: Admin-dashboard
+    Pour executer cette partie il faut installer les dependences en tapant dans un nouveau terminal:
+        * npm install
+    Puis l'executer en tapant:
+        * yarn dev
+
+     - La Deuxieme: User-interface
+    Pour executer cette partie il faut installer les dependences en tapant dans un nouveau terminal:
+        * npm install
+    Puis l'executer en tapant:
+        * yarn dev
+
